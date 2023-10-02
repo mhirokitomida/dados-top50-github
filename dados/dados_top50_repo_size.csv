@@ -1,0 +1,51 @@
+,owner,repository,description,created_at,updated_at,pushed_at,language,size,stargazers_count,watchers,forks
+0,video300,video,,2021-12-11,2022-09-27,2022-02-15,,108857586,1,1,0
+1,bigsur112,sm_test,,2022-05-12,2022-05-12,2022-05-15,,108382604,0,0,0
+2,bigsur112,txts,,2021-04-24,2022-09-27,2021-04-26,,107993366,1,1,0
+3,wvaughn409,Kobayashi-Maru,,2020-09-14,2022-05-11,2020-10-26,,107183173,5,5,2
+4,SLAzurin,mc_server_archive2,,2022-04-17,2022-04-17,2022-08-11,,106786680,0,0,0
+5,CrazSK,vods-v2,,2023-06-29,2023-08-10,2023-08-10,,106333983,0,0,0
+6,COVID19Tracking,screenshot-archive,,2021-03-18,2022-09-27,2021-05-02,,106022867,1,1,0
+7,isayfly0,buildinggl,,2020-09-11,2020-11-26,2020-11-26,,105869385,0,0,0
+8,zwehrwein,subredditstats,Scrape subredditstats.com everyday.,2022-02-09,2022-09-27,2021-12-28,,105279149,1,1,0
+9,HERA-Team,H6C_Notebooks,Repository for jupyter notebooks created by the RTP during the 6th HERA observing season (2022-2023).,2022-08-19,2023-01-31,2023-02-03,HTML,105249635,0,0,1
+45,DavHau,nix-pypi-fetcher-2,DB of pypi URLs and hashes,2022-12-08,2023-05-09,2023-09-07,Python,105188915,5,5,0
+10,rozierguillaume,covid-19,"How does COVID-19 spread around the world? Charts, data, dashboards and interpretations...",2020-03-15,2023-07-28,2021-09-27,HTML,105078627,309,309,35
+11,HERA-Team,H6C_Notebooks_2,Second repository for jupyter notebooks created by the RTP during the 6th HERA observing season (2022-2023).,2023-02-03,2023-09-13,2023-07-06,HTML,105077473,0,0,0
+12,TWLBot,Builds-archive,This is where builds for TWiLight Menu++ and other DS-Homebrew projects were stored until 2021-03-09. This repository is now too full and has been renamed to be an archive.,2019-02-03,2023-01-28,2021-03-10,,105052260,28,28,2
+13,michalskop,mzcr-cz-covid-19-data,Data from MZČR Covid 19: https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19,2020-11-06,2022-01-10,2022-11-13,Python,105013591,0,0,0
+15,clamalo,clamalo.github.io,,2021-08-29,2022-01-09,2023-05-30,HTML,104998595,0,0,2
+16,GM-Ling,ALCOFS-R1,AK Storm Surge Forecasting System (AKSSFS) (on testing) https://gm-ling.github.io/ALCOFS-R/,2020-04-28,2022-09-27,2022-09-20,HTML,104993476,4,4,1
+17,NagatoDEV,PlayStation-Home-Master-Archive,"This archive is based on A snapshot of data from PlayStation Home on 04-01-2015. This archive is a mirror of JohnDrinkWater's repo in an extracted format and will be updated whenever the Destination Home Team obtains Cache Donations. Additionally, this archive will also preserve any PlayStation Home websites.",2020-11-18,2023-07-21,2022-06-23,,104992378,21,21,14
+18,TWLBot,Builds-archive-3,This is where builds for TWiLightMenu++ and other DS-Homebrew projects were stored from 2022-03-12 until 2023-07-24. This repository is now too full and has been renamed to be an archive.,2022-03-13,2023-07-24,2023-07-22,,104980916,6,6,0
+19,Hixon10,openjdk-mailing-lists-search-old,Search for openjdk mailing lists,2022-09-25,2023-07-18,2023-07-15,HTML,104958735,1,1,0
+20,kusl,mypuppeteer,just a test,2020-10-01,2022-09-27,2020-11-20,JavaScript,104943957,1,1,0
+21,TWLBot,Builds-archive-2,This is where builds for TWiLightMenu++ and other DS-Homebrew projects were stored from 2021-03-09 until 2022-03-12. This repository is now too full and has been renamed to be an archive.,2021-03-10,2023-01-28,2022-03-13,,104942975,12,12,0
+22,XorreAI,Hehge-AI,"OUTDATED: Now split into individual repos by sector. HehgeAI performs financial analysis using a variety of models, and outputs the results to be usable by AI. The ultimiate goal of this project is to provide a consistent platform for (open-source) finanical data to use for advanced AI applications. ",2023-06-13,2023-07-14,2023-07-14,,104937462,2,2,1
+47,Jonty,london_life,Tracking activity across London through TFL's network of traffic cameras,2022-09-10,2023-01-31,2023-04-16,Python,104918634,0,0,1
+46,DavHau,conda-channels,regular snapshots of multiple conda channels,2020-10-26,2023-04-13,2023-08-28,Nix,104914801,4,4,1
+23,predictcrypto,pins_archive_09282021,,2021-02-13,2021-09-28,2021-09-26,,104913449,0,0,0
+24,sportsdataverse,hoopR-data,hoopR data 2002-2021,2021-05-17,2023-09-18,2023-04-05,,104912836,7,7,4
+14,greghell,DSARFI,,2023-03-06,2023-03-06,2023-04-09,HTML,104897008,0,0,0
+25,nuuuwan,news_lk2,,2022-03-07,2022-08-13,2022-11-20,Python,104890448,2,2,1
+26,PiPet-dev,Cat,,2022-11-10,2022-11-10,2023-09-19,,104883661,0,0,0
+27,covid19india,api,Moved to https://github.com/covid19india/data/,2020-03-21,2023-09-08,2021-09-09,Python,104880243,670,670,622
+28,predictcrypto,pins_archive_06192022,,2022-02-13,2022-06-19,2022-06-16,,104879422,0,0,0
+44,jpbranson,mlgw.outage,,2022-03-08,2023-01-31,2023-07-10,R,104877791,0,0,0
+29,johncruyff14,johncruyff14,,2021-11-01,2023-01-31,2023-04-08,,104877328,0,0,0
+30,nuvla,vuln-db,Self-updating repository containing a database of vulnerabilities,2020-10-23,2022-06-17,2022-08-05,Python,104874072,3,3,1
+31,predictcrypto,pins_archive_11252022,,2022-06-19,2022-11-25,2022-11-11,,104873825,0,0,0
+32,predictcrypto,pins_april7_2023_archived,,2022-11-25,2023-05-16,2023-04-07,,104869650,2,2,0
+33,graphy-covidjp,xgraphy-covidjp.github.io,random covid-19 graphs,2020-04-17,2020-09-27,2020-09-25,HTML,104868290,0,0,0
+34,predictcrypto,pins,,2023-05-16,2023-07-18,2023-08-26,,104864232,0,0,0
+35,predictcrypto,pins_archive,,2020-02-08,2021-02-13,2021-02-12,,104864191,1,1,1
+36,cnftstats,cabins,,2022-05-01,2022-05-01,2022-07-09,HTML,104861997,0,0,0
+37,predictcrypto,pins_archive_02132022,,2021-09-28,2022-02-13,2022-02-02,,104861474,0,0,0
+43,wizche,lema-observatory,,2020-05-25,2023-01-31,2023-08-11,,104861176,1,1,0
+38,BILLKATO,JRVS,,2022-11-04,2023-06-06,2023-06-06,JavaScript,104859418,1,1,0
+39,The-Unstable-World-backup,binary,Minetest daily development build and modpack for the `The Unstable World` server,2019-11-29,2023-01-28,2020-03-08,,104859064,5,5,0
+40,StateDocuments,gym-public2,,2021-10-16,2023-05-21,2023-05-13,,104858715,0,0,0
+41,suzucan2020,screenshots-ci-action-test,,2021-02-21,2023-01-31,2023-09-30,,104858555,1,1,1
+42,DavHau,nix-pypi-fetcher,Pypi Fetcher for Nix with simplified interface. (contains hashes for all packages),2020-02-09,2023-10-01,2022-11-27,Python,104857934,14,14,5
+48,mbargull,bioconda-repodata-archive-old,Archive of repodata.json from Bioconda and related channels,2021-02-25,2023-01-28,2021-08-01,Python,104187758,0,0,0
+49,niemasd,PRJNA698267-Analysis,Analysis of SARS-CoV-2 FASTQs from PRJNA698267,2022-08-19,2023-06-05,2022-08-21,,104047363,2,2,0
