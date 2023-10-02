@@ -1,0 +1,51 @@
+,owner,repository,description,created_at,updated_at,pushed_at,language,size,stargazers_count,watchers,forks
+0,freeCodeCamp,freeCodeCamp,freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.,2014-12-24,2023-10-02,2023-10-02,TypeScript,390724,374852,374852,33883
+1,EbookFoundation,free-programming-books,:books: Freely available programming books,2013-10-11,2023-10-02,2023-10-02,,16896,299409,299409,57404
+2,sindresorhus,awesome,😎 Awesome lists about all kinds of interesting topics,2014-07-11,2023-10-02,2023-09-30,,1432,271344,271344,26526
+3,jwasham,coding-interview-university,A complete computer science study plan to become a software engineer.,2016-06-06,2023-10-02,2023-09-30,,21046,268495,268495,69922
+4,996icu,996.ICU,Repo for counting stars and contributing. Press F to pay respect to glorious developers.,2019-03-26,2023-10-02,2023-10-02,,187789,267956,267956,21496
+5,public-apis,public-apis,A collective list of free APIs,2016-03-20,2023-10-02,2023-10-01,Python,5088,258579,258579,29382
+6,kamranahmedse,developer-roadmap,"Interactive roadmaps, guides and other educational content to help developers grow in their careers.",2017-03-15,2023-10-02,2023-10-01,TypeScript,2326766,252117,252117,34980
+7,donnemartin,system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,2017-02-26,2023-10-02,2023-09-20,Python,11187,230768,230768,40651
+8,codecrafters-io,build-your-own-x,Master programming by recreating your favorite technologies from scratch.,2018-05-09,2023-10-02,2023-09-30,,974,218636,218636,21233
+9,facebook,react,The library for web and native user interfaces.,2013-05-24,2023-10-02,2023-10-02,JavaScript,349389,213692,213692,44959
+10,vuejs,vue,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",2013-07-29,2023-10-02,2023-09-28,TypeScript,31925,205417,205417,34402
+11,vinta,awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",2014-06-27,2023-10-02,2023-09-30,Python,6696,182395,182395,23897
+12,tensorflow,tensorflow,An Open Source Machine Learning Framework for Everyone,2015-11-07,2023-10-02,2023-10-02,C++,938745,177880,177880,88992
+13,trekhleb,javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,2018-03-24,2023-10-02,2023-10-01,JavaScript,13363,176107,176107,28929
+14,getify,You-Dont-Know-JS,A book series on JavaScript. @YDKJS on twitter.,2013-11-16,2023-10-02,2023-09-30,,12645,171768,171768,33099
+15,TheAlgorithms,Python,All Algorithms implemented in Python,2016-07-16,2023-10-02,2023-10-02,Python,13946,170325,170325,42261
+16,CyC2018,CS-Notes,:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计,2018-02-13,2023-10-02,2023-09-21,,116179,167325,167325,50568
+17,twbs,bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",2011-07-29,2023-10-02,2023-10-01,JavaScript,235821,165471,165471,78924
+18,ohmyzsh,ohmyzsh,"🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",2009-08-28,2023-10-02,2023-10-01,Shell,10726,162800,162800,25535
+19,torvalds,linux,Linux kernel source tree,2011-09-04,2023-10-02,2023-10-02,C,4696069,158326,158326,50539
+20,flutter,flutter,Flutter makes it easy and fast to build beautiful apps for mobile and beyond,2015-03-06,2023-10-02,2023-10-02,Dart,272697,157040,157040,26059
+21,github,gitignore,A collection of useful .gitignore templates,2010-11-08,2023-10-02,2023-10-01,,2356,151825,151825,84042
+22,microsoft,vscode,Visual Studio Code,2015-09-03,2023-10-02,2023-10-02,TypeScript,849774,151651,151651,27048
+23,awesome-selfhosted,awesome-selfhosted,A list of Free Software network services and web applications which can be hosted on your own servers,2015-06-01,2023-10-02,2023-09-28,,15884,150496,150496,8309
+24,Significant-Gravitas,AutoGPT,An experimental open-source attempt to make GPT-4 fully autonomous.,2023-03-16,2023-10-02,2023-10-02,JavaScript,83407,149735,149735,33121
+25,ossu,computer-science,:mortar_board: Path to a free self-taught education in Computer Science!,2014-05-04,2023-10-02,2023-09-30,,1233,149704,149704,19097
+26,jackfrued,Python-100-Days,Python - 100天从新手到大师,2018-03-01,2023-10-01,2023-09-25,Python,310266,140424,140424,49937
+27,jlevy,the-art-of-command-line,"Master the command line, in one page",2015-05-20,2023-10-02,2023-07-20,,2772,139664,139664,13797
+28,airbnb,javascript,JavaScript Style Guide,2012-11-01,2023-10-02,2023-10-01,JavaScript,3619,138240,138240,26225
+29,Snailclimb,JavaGuide,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,2018-05-07,2023-10-02,2023-09-30,Java,162913,137526,137526,44864
+30,ytdl-org,youtube-dl,Command-line program to download videos from YouTube.com and other video sites,2010-10-31,2023-10-02,2023-09-24,Python,64611,123693,123693,9369
+31,labuladong,fucking-algorithm,"刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. ",2020-02-19,2023-10-02,2023-09-20,Markdown,125919,119871,119871,22818
+32,practical-tutorials,project-based-learning,Curated list of project-based tutorials,2017-04-12,2023-10-02,2023-08-12,,438,116758,116758,16238
+33,30-seconds,30-seconds-of-code,Short code snippets for all your development needs,2017-11-29,2023-10-02,2023-10-01,JavaScript,609900,115795,115795,11950
+34,golang,go,The Go programming language,2014-08-19,2023-10-02,2023-10-01,Go,303969,114774,114774,17236
+35,huggingface,transformers,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",2018-10-29,2023-10-02,2023-10-02,Python,164532,112655,112655,22438
+36,vercel,next.js,The React Framework,2016-10-05,2023-10-02,2023-10-02,JavaScript,1867020,112543,112543,24824
+37,facebook,react-native,A framework for building native applications using React,2015-01-09,2023-10-02,2023-10-02,Java,864333,112221,112221,23836
+38,avelino,awesome-go,"A curated list of awesome Go frameworks, libraries and software",2014-07-06,2023-10-02,2023-10-01,Go,10183,109237,109237,11301
+39,electron,electron,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",2013-04-12,2023-10-02,2023-10-02,C++,140362,109208,109208,15108
+40,trimstray,the-book-of-secret-knowledge,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",2018-06-23,2023-10-02,2023-09-15,,3479,108534,108534,7704
+41,d3,d3,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",2010-09-27,2023-10-02,2023-09-25,Shell,43043,106358,106358,23355
+42,justjavac,free-programming-books-zh_CN,:books: 免费的计算机编程类中文书籍，欢迎投稿,2013-11-04,2023-10-02,2023-09-28,,1236,105206,105206,27879
+43,AUTOMATIC1111,stable-diffusion-webui,Stable Diffusion web UI,2022-08-22,2023-10-02,2023-10-01,Python,33059,104011,104011,20788
+44,kubernetes,kubernetes,Production-Grade Container Scheduling and Management,2014-06-06,2023-10-02,2023-10-02,Go,1202163,102012,102012,38013
+45,axios,axios,Promise based HTTP client for the browser and node.js,2014-08-18,2023-10-02,2023-10-01,JavaScript,9958,101961,101961,10587
+46,facebook,create-react-app,Set up a modern web app by running one command.,2016-07-17,2023-10-02,2023-10-01,JavaScript,25116,100842,100842,26726
+47,nodejs,node,Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:,2014-11-26,2023-10-02,2023-10-02,JavaScript,1115264,98327,98327,27278
+48,microsoft,PowerToys,Windows system utilities to maximize productivity,2019-05-01,2023-10-02,2023-10-01,C#,332990,96696,96696,5675
+49,yangshun,tech-interview-handbook,💯 Curated coding interview preparation materials for busy software engineers,2016-07-05,2023-10-02,2023-09-30,TypeScript,32076,95696,95696,12385
