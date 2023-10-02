@@ -1,0 +1,51 @@
+,owner,repository,description,created_at,updated_at,pushed_at,language,size,stargazers_count,watchers,forks
+0,jtleek,datasharing,The Leek group guide to data sharing ,2013-11-07,2023-10-02,2023-09-12,,590,6382,6382,243353
+1,rdpeng,ProgrammingAssignment2,Repository for Programming Assignment 2 for R Programming on Coursera,2014-01-14,2023-09-28,2023-10-01,R,6670,805,805,142788
+2,octocat,Spoon-Knife,This repo is for demonstration purposes only.,2011-01-27,2023-10-01,2023-10-02,HTML,2,11871,11871,138923
+3,SmartThingsCommunity,SmartThingsPublic,SmartThings open-source DeviceType Handlers and SmartApps code,2015-08-04,2023-09-29,2023-07-18,Groovy,21066,2500,2500,90934
+4,tensorflow,tensorflow,An Open Source Machine Learning Framework for Everyone,2015-11-07,2023-10-02,2023-10-02,C++,938745,177880,177880,88992
+5,github,gitignore,A collection of useful .gitignore templates,2010-11-08,2023-10-02,2023-10-01,,2356,151825,151825,84042
+6,Pierian-Data,Complete-Python-3-Bootcamp,Course Files for Complete Python 3 Bootcamp Course on Udemy,2018-02-12,2023-10-01,2023-09-24,Jupyter Notebook,37125,24908,24908,81099
+7,twbs,bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",2011-07-29,2023-10-02,2023-10-01,JavaScript,235821,165471,165471,78924
+8,nightscout,cgm-remote-monitor,nightscout web monitor,2014-05-22,2023-09-29,2023-09-30,JavaScript,29952,2179,2179,70348
+9,jwasham,coding-interview-university,A complete computer science study plan to become a software engineer.,2016-06-06,2023-10-02,2023-09-30,,21046,268495,268495,69922
+10,firstcontributions,first-contributions,🚀✨ Help beginners to contribute to open source projects,2016-09-20,2023-10-02,2023-10-02,,27240,38010,38010,65764
+11,github,docs,The open-source repo for docs.github.com,2019-05-31,2023-10-02,2023-10-01,JavaScript,1822841,14541,14541,61518
+12,EbookFoundation,free-programming-books,:books: Freely available programming books,2013-10-11,2023-10-02,2023-10-02,,16896,299409,299409,57404
+13,rdpeng,ExData_Plotting1,Plotting Assignment 1 for Exploratory Data Analysis,2014-02-09,2023-09-22,2023-09-27,,61643,246,246,56567
+14,opencv,opencv,Open Source Computer Vision Library,2012-07-19,2023-10-02,2023-10-02,C++,521416,71450,71450,55618
+15,eugenp,tutorials,"Just Announced - ""Learn Spring Security OAuth"": ",2013-04-29,2023-10-01,2023-10-01,Java,378780,34937,34937,54053
+16,CyC2018,CS-Notes,:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计,2018-02-13,2023-10-02,2023-09-21,,116179,167325,167325,50568
+17,torvalds,linux,Linux kernel source tree,2011-09-04,2023-10-02,2023-10-02,C,4696069,158326,158326,50539
+18,TheOdinProject,css-exercises,,2021-08-17,2023-10-01,2023-10-01,HTML,6813,1199,1199,50369
+19,jackfrued,Python-100-Days,Python - 100天从新手到大师,2018-03-01,2023-10-01,2023-09-25,Python,310266,140424,140424,49937
+20,tensorflow,models,Models and examples built with TensorFlow,2016-02-05,2023-10-02,2023-09-30,Jupyter Notebook,613739,76116,76116,46225
+21,facebook,react,The library for web and native user interfaces.,2013-05-24,2023-10-02,2023-10-02,JavaScript,349389,213692,213692,44959
+22,Snailclimb,JavaGuide,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,2018-05-07,2023-10-02,2023-09-30,Java,162913,137526,137526,44864
+23,RedHatTraining,DO180-apps,DO180 Repository for Sample Applications,2019-10-01,2023-09-28,2023-10-01,JavaScript,224,265,265,42930
+24,TheAlgorithms,Python,All Algorithms implemented in Python,2016-07-16,2023-10-02,2023-10-02,Python,13946,170325,170325,42261
+25,ant-design,ant-design,An enterprise-class UI design language and React UI library,2015-04-24,2023-10-02,2023-10-02,TypeScript,171829,87708,87708,41957
+26,Yidadaa,ChatGPT-Next-Web,A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。,2023-03-10,2023-10-02,2023-09-30,TypeScript,7447,44507,44507,41606
+27,google,it-cert-automation-practice,Google IT Automation with Python Professional Certificate - Practice files,2019-12-17,2023-10-01,2023-10-02,Python,16,733,733,41017
+28,donnemartin,system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,2017-02-26,2023-10-02,2023-09-20,Python,11187,230768,230768,40651
+29,jlord,patchwork,All the Git-it Workshop completers! ,2014-01-10,2023-10-02,2023-10-02,Rich Text Format,183407,1091,1091,40013
+30,spring-projects,spring-boot,Spring Boot,2012-10-19,2023-10-02,2023-09-30,Java,166143,69530,69530,39490
+31,kubernetes,kubernetes,Production-Grade Container Scheduling and Management,2014-06-06,2023-10-02,2023-10-02,Go,1202163,102012,102012,38013
+32,rdpeng,RepData_PeerAssessment1,Peer Assessment 1 for Reproducible Research,2014-02-10,2023-07-17,2023-09-27,,29349,97,97,37046
+33,spring-projects,spring-framework,Spring Framework,2010-12-08,2023-10-02,2023-10-01,Java,197469,53273,53273,36963
+34,bitcoin,bitcoin,Bitcoin Core integration/staging tree,2010-12-19,2023-10-02,2023-10-02,C++,240227,71599,71599,35783
+35,barryclark,jekyll-now,"Build a Jekyll blog in minutes, without touching the command line.",2014-02-07,2023-10-01,2023-09-27,CSS,8406,8053,8053,35281
+36,wesbos,JavaScript30,30 Day Vanilla JS Challenge,2016-12-07,2023-10-01,2023-09-26,HTML,46982,25300,25300,35050
+37,mrdoob,three.js,JavaScript 3D Library.,2010-03-23,2023-10-02,2023-10-02,JavaScript,1277414,94738,94738,35047
+38,kamranahmedse,developer-roadmap,"Interactive roadmaps, guides and other educational content to help developers grow in their careers.",2017-03-15,2023-10-02,2023-10-01,TypeScript,2326766,252117,252117,34980
+39,vuejs,vue,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",2013-07-29,2023-10-02,2023-09-28,TypeScript,31925,205417,205417,34402
+40,freeCodeCamp,freeCodeCamp,freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.,2014-12-24,2023-10-02,2023-10-02,TypeScript,390724,374852,374852,33883
+41,qmk,qmk_firmware,Open-source keyboard firmware for Atmel AVR and Arm USB families,2014-12-08,2023-10-02,2023-10-02,C,288437,15927,15927,33877
+42,Significant-Gravitas,AutoGPT,An experimental open-source attempt to make GPT-4 fully autonomous.,2023-03-16,2023-10-02,2023-10-02,JavaScript,83407,149735,149735,33121
+43,getify,You-Dont-Know-JS,A book series on JavaScript. @YDKJS on twitter.,2013-11-16,2023-10-02,2023-09-30,,12645,171768,171768,33099
+44,academicpages,academicpages.github.io,"Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",2016-09-15,2023-10-01,2023-10-02,JavaScript,51373,8862,8862,32456
+45,DataScienceSpecialization,courses,Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1,2014-01-21,2023-10-01,2021-03-30,HTML,1083379,3981,3981,31511
+46,mui,material-ui,"MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",2014-08-18,2023-10-02,2023-10-02,TypeScript,452391,89046,89046,30285
+47,PanJiaChen,vue-element-admin,:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin,2017-04-17,2023-10-02,2023-09-30,Vue,15436,84113,84113,30208
+48,django,django,The Web framework for perfectionists with deadlines.,2012-04-28,2023-10-02,2023-10-01,Python,241428,73334,73334,30050
+49,DefinitelyTyped,DefinitelyTyped,The repository for high quality TypeScript type definitions.,2012-10-05,2023-10-02,2023-10-02,TypeScript,593773,45395,45395,29524
